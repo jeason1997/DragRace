@@ -1,0 +1,33 @@
+C:\Users\SamI\Documents\Visual Studio 2015\Projects\Drag Race\Drag Race\bin\Debug\Drag Race.dll
+C:\Users\SamI\Documents\Visual Studio 2015\Projects\Drag Race\Drag Race\bin\Debug\Drag Race.pdb
+C:\Users\SamI\Documents\Visual Studio 2015\Projects\Drag Race\Drag Race\bin\Debug\ScriptHookVDotNet.dll
+C:\Users\SamI\Documents\Visual Studio 2015\Projects\Drag Race\Drag Race\obj\Debug\Drag Race.csprojResolveAssemblyReference.cache
+C:\Users\SamI\Documents\Visual Studio 2015\Projects\Drag Race\Drag Race\obj\Debug\Drag Race.dll
+C:\Users\SamI\Documents\Visual Studio 2015\Projects\Drag Race\Drag Race\obj\Debug\Drag Race.pdb
+C:\Users\SamI\Documents\Visual Studio 2015\Projects\Drag Race\Drag Race\obj\Debug\Drag_Race.Resources.resources
+C:\Users\SamI\Documents\Visual Studio 2015\Projects\Drag Race\Drag Race\obj\Debug\Drag Race.csproj.GenerateResource.Cache
+C:\Users\SamI\Documents\Visual Studio 2015\Projects\Drag Race - NativeUI\Drag Race\obj\Debug\Drag Race.csprojResolveAssemblyReference.cache
+C:\Users\SamI\Documents\Visual Studio 2015\Projects\Drag Race - NativeUI\Drag Race\obj\Debug\Drag_Race.Resources.resources
+C:\Users\SamI\Documents\Visual Studio 2015\Projects\Drag Race - NativeUI\Drag Race\obj\Debug\Drag Race.csproj.GenerateResource.Cache
+C:\Users\SamI\Documents\Visual Studio 2015\Projects\Drag Race - NativeUI\Drag Race\obj\Debug\Drag Race.dll
+C:\Users\SamI\Documents\Visual Studio 2015\Projects\Drag Race - NativeUI\Drag Race\obj\Debug\Drag Race.pdb
+C:\Users\SamI\Documents\Visual Studio 2015\Projects\Drag Race - NativeUI\Drag Race\bin\Debug\Drag Race.dll
+C:\Users\SamI\Documents\Visual Studio 2015\Projects\Drag Race - NativeUI\Drag Race\bin\Debug\Drag Race.pdb
+C:\Users\SamI\Documents\Visual Studio 2015\Projects\Drag Race - NativeUI\Drag Race\bin\Debug\ScriptHookVDotNet.dll
+C:\Users\SamI\Documents\Visual Studio 2015\Projects\Drag Race - NativeUI\Drag Race\bin\Debug\NativeUI.dll
+F:\Drag Race - NativeUI\Drag Race\bin\Debug\Drag Race.dll
+F:\Drag Race - NativeUI\Drag Race\bin\Debug\Drag Race.pdb
+F:\Drag Race - NativeUI\Drag Race\bin\Debug\NativeUI.dll
+F:\Drag Race - NativeUI\Drag Race\obj\Debug\Drag Race.csprojResolveAssemblyReference.cache
+F:\Drag Race - NativeUI\Drag Race\obj\Debug\Drag_Race.Resources.resources
+F:\Drag Race - NativeUI\Drag Race\obj\Debug\Drag Race.csproj.GenerateResource.Cache
+F:\Drag Race - NativeUI\Drag Race\obj\Debug\Drag Race.dll
+F:\Drag Race - NativeUI\Drag Race\obj\Debug\Drag Race.pdb
+D:\VS Projects\Drag Race - NativeUI\Drag Race\bin\Debug\Drag Race.dll
+D:\VS Projects\Drag Race - NativeUI\Drag Race\bin\Debug\Drag Race.pdb
+D:\VS Projects\Drag Race - NativeUI\Drag Race\bin\Debug\NativeUI.dll
+D:\VS Projects\Drag Race - NativeUI\Drag Race\obj\Debug\Drag Race.csprojResolveAssemblyReference.cache
+D:\VS Projects\Drag Race - NativeUI\Drag Race\obj\Debug\Drag_Race.Resources.resources
+D:\VS Projects\Drag Race - NativeUI\Drag Race\obj\Debug\Drag Race.csproj.GenerateResource.Cache
+D:\VS Projects\Drag Race - NativeUI\Drag Race\obj\Debug\Drag Race.dll
+D:\VS Projects\Drag Race - NativeUI\Drag Race\obj\Debug\Drag Race.pdb
